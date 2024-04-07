@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\01.BuildInJSONSupport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55BE612-EBFB-48D0-A78B-14BAD27F0F22}|01.BuildInJSONSupport\\01.BuildInJSONSupport.csproj|d:\\kd\\softuni\\back-end test automation\\backendtestautomation\\01.serializationanddeserialization\\01.buildinjsonsupport\\01.buildinjsonsupport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55BE612-EBFB-48D0-A78B-14BAD27F0F22}|01.BuildInJSONSupport\\01.BuildInJSONSupport.csproj|solutionrelative:01.buildinjsonsupport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\01.BuildInJSONSupport\\01.BuildInJSONSupport\\Program.cs",
+              "RelativeDocumentMoniker": "01.BuildInJSONSupport\\Program.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\01.BuildInJSONSupport\\01.BuildInJSONSupport\\Program.cs",
+              "RelativeToolTip": "01.BuildInJSONSupport\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:01:42.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

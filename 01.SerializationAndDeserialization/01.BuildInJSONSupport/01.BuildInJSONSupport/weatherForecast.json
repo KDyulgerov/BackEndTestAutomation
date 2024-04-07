@@ -1,0 +1,17 @@
+[
+  {
+    "Date": "2024-04-07T12:17:03.4246656+03:00",
+    "Temperature": 31,
+    "Summary": "First Example Random Summary"
+  },
+  {
+    "Date": "2024-04-07T12:17:03.4246656+03:00",
+    "Temperature": 32,
+    "Summary": "Second Example Random Summary"
+  },
+  {
+    "Date": "2024-04-07T12:17:03.4246656+03:00",
+    "Temperature": 33,
+    "Summary": "Third Example Random Summary"
+  }
+]
