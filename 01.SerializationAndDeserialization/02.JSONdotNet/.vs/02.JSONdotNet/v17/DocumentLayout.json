@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\02.JSONdotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A1C46-0039-48EF-8969-B828C885B73C}|02.JSONdotNet\\02.JSONdotNet.csproj|d:\\kd\\softuni\\back-end test automation\\backendtestautomation\\01.serializationanddeserialization\\02.jsondotnet\\02.jsondotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01A1C46-0039-48EF-8969-B828C885B73C}|02.JSONdotNet\\02.JSONdotNet.csproj|solutionrelative:02.jsondotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A1C46-0039-48EF-8969-B828C885B73C}|02.JSONdotNet\\02.JSONdotNet.csproj|d:\\kd\\softuni\\back-end test automation\\backendtestautomation\\01.serializationanddeserialization\\02.jsondotnet\\02.jsondotnet\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01A1C46-0039-48EF-8969-B828C885B73C}|02.JSONdotNet\\02.JSONdotNet.csproj|solutionrelative:02.jsondotnet\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B01A1C46-0039-48EF-8969-B828C885B73C}|02.JSONdotNet\\02.JSONdotNet.csproj|d:\\kd\\softuni\\back-end test automation\\backendtestautomation\\01.serializationanddeserialization\\02.jsondotnet\\02.jsondotnet\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B01A1C46-0039-48EF-8969-B828C885B73C}|02.JSONdotNet\\02.JSONdotNet.csproj|solutionrelative:02.jsondotnet\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\02.JSONdotNet\\02.JSONdotNet\\Product.cs",
+              "RelativeDocumentMoniker": "02.JSONdotNet\\Product.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\02.JSONdotNet\\02.JSONdotNet\\Product.cs",
+              "RelativeToolTip": "02.JSONdotNet\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:01:09.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.json",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\02.JSONdotNet\\02.JSONdotNet\\Products.json",
+              "RelativeDocumentMoniker": "02.JSONdotNet\\Products.json",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\02.JSONdotNet\\02.JSONdotNet\\Products.json",
+              "RelativeToolTip": "02.JSONdotNet\\Products.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T19:10:29.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\02.JSONdotNet\\02.JSONdotNet\\Program.cs",
+              "RelativeDocumentMoniker": "02.JSONdotNet\\Program.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\02.JSONdotNet\\02.JSONdotNet\\Program.cs",
+              "RelativeToolTip": "02.JSONdotNet\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:58:58.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

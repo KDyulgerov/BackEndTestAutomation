@@ -1,0 +1,14 @@
+﻿{
+  "pump": {
+    "Id": 0,
+    "Name": "Oil Pump",
+    "Description": null,
+    "Cost": 25.0
+  },
+  "filter": {
+    "Id": 0,
+    "Name": "Oil Filter",
+    "Description": null,
+    "Cost": 15.0
+  }
+}
