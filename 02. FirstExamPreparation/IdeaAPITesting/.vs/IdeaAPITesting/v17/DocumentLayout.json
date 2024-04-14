@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Back-End Test Automation\\IdeaAPITesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40E1AE1-F4F7-4D98-9164-CA245B3D174B}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\lenovo\\source\\repos\\back-end test automation\\ideaapitesting\\ideaapitesting\\ideaapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40E1AE1-F4F7-4D98-9164-CA245B3D174B}|IdeaAPITesting\\IdeaAPITesting.csproj|solutionrelative:ideaapitesting\\ideaapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40E1AE1-F4F7-4D98-9164-CA245B3D174B}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\lenovo\\source\\repos\\back-end test automation\\ideaapitesting\\ideaapitesting\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40E1AE1-F4F7-4D98-9164-CA245B3D174B}|IdeaAPITesting\\IdeaAPITesting.csproj|solutionrelative:ideaapitesting\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40E1AE1-F4F7-4D98-9164-CA245B3D174B}|IdeaAPITesting\\IdeaAPITesting.csproj|c:\\users\\lenovo\\source\\repos\\back-end test automation\\ideaapitesting\\ideaapitesting\\models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40E1AE1-F4F7-4D98-9164-CA245B3D174B}|IdeaAPITesting\\IdeaAPITesting.csproj|solutionrelative:ideaapitesting\\models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdeaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Back-End Test Automation\\IdeaAPITesting\\IdeaAPITesting\\Models\\IdeaDTO.cs",
+              "RelativeDocumentMoniker": "IdeaAPITesting\\Models\\IdeaDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Back-End Test Automation\\IdeaAPITesting\\IdeaAPITesting\\Models\\IdeaDTO.cs",
+              "RelativeToolTip": "IdeaAPITesting\\Models\\IdeaDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:14:43.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Back-End Test Automation\\IdeaAPITesting\\IdeaAPITesting\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "IdeaAPITesting\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Back-End Test Automation\\IdeaAPITesting\\IdeaAPITesting\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "IdeaAPITesting\\Models\\ApiResponseDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:11:32.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdeaAPITests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Back-End Test Automation\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITests.cs",
+              "RelativeDocumentMoniker": "IdeaAPITesting\\IdeaAPITests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Back-End Test Automation\\IdeaAPITesting\\IdeaAPITesting\\IdeaAPITests.cs",
+              "RelativeToolTip": "IdeaAPITesting\\IdeaAPITests.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAiwK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:37:44.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
