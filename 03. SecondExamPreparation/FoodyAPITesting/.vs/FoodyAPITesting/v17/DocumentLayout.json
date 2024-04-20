@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647314A3-C164-4E82-B3CB-F55495B2F3E7}|FoodyAPITesting\\FoodyAPITesting.csproj|d:\\kd\\softuni\\back-end test automation\\14. exam preparation 2\\foodyexamprep_solutions\\foodyapitesting\\foodyapitesting\\foodyapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647314A3-C164-4E82-B3CB-F55495B2F3E7}|FoodyAPITesting\\FoodyAPITesting.csproj|solutionrelative:foodyapitesting\\foodyapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647314A3-C164-4E82-B3CB-F55495B2F3E7}|FoodyAPITesting\\FoodyAPITesting.csproj|d:\\kd\\softuni\\back-end test automation\\14. exam preparation 2\\foodyexamprep_solutions\\foodyapitesting\\foodyapitesting\\dto models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647314A3-C164-4E82-B3CB-F55495B2F3E7}|FoodyAPITesting\\FoodyAPITesting.csproj|solutionrelative:foodyapitesting\\dto models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647314A3-C164-4E82-B3CB-F55495B2F3E7}|FoodyAPITesting\\FoodyAPITesting.csproj|d:\\kd\\softuni\\back-end test automation\\14. exam preparation 2\\foodyexamprep_solutions\\foodyapitesting\\foodyapitesting\\dto models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647314A3-C164-4E82-B3CB-F55495B2F3E7}|FoodyAPITesting\\FoodyAPITesting.csproj|solutionrelative:foodyapitesting\\dto models\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647314A3-C164-4E82-B3CB-F55495B2F3E7}|FoodyAPITesting\\FoodyAPITesting.csproj|d:\\kd\\softuni\\back-end test automation\\14. exam preparation 2\\foodyexamprep_solutions\\foodyapitesting\\foodyapitesting\\foodyapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{647314A3-C164-4E82-B3CB-F55495B2F3E7}|FoodyAPITesting\\FoodyAPITesting.csproj|solutionrelative:foodyapitesting\\foodyapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodDto.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\FoodyAPITesting\\DTO Models\\FoodDto.cs",
+              "RelativeDocumentMoniker": "FoodyAPITesting\\DTO Models\\FoodDto.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\FoodyAPITesting\\DTO Models\\FoodDto.cs",
+              "RelativeToolTip": "FoodyAPITesting\\DTO Models\\FoodDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:47:46.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodyApiTests.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\FoodyAPITesting\\FoodyApiTests.cs",
+              "RelativeDocumentMoniker": "FoodyAPITesting\\FoodyApiTests.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\FoodyAPITesting\\FoodyApiTests.cs",
+              "RelativeToolTip": "FoodyAPITesting\\FoodyApiTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T13:48:43.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponseDto.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\FoodyAPITesting\\DTO Models\\ApiResponseDto.cs",
+              "RelativeDocumentMoniker": "FoodyAPITesting\\DTO Models\\ApiResponseDto.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\FoodyAPITesting\\DTO Models\\ApiResponseDto.cs",
+              "RelativeToolTip": "FoodyAPITesting\\DTO Models\\ApiResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:42:07.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodyAPITesting.csproj",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\FoodyAPITesting\\FoodyAPITesting.csproj",
+              "RelativeDocumentMoniker": "FoodyAPITesting\\FoodyAPITesting.csproj",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\14. Exam Preparation 2\\FoodyExamPrep_Solutions\\FoodyAPITesting\\FoodyAPITesting\\FoodyAPITesting.csproj",
+              "RelativeToolTip": "FoodyAPITesting\\FoodyAPITesting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T13:50:58.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

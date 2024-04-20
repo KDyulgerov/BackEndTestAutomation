@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sFuceOzcVromuDpLS4JDEQNaw2bUL98R+dxZAZGMzOywrrpZuJZs1HdM1lAKLbXV2QxlylQzMAtPQ554jEeRyA==",
+  "success": true,
+  "projectFilePath": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\01.SerializationAndDeserialization\\02.JSONdotNet\\02.JSONdotNet\\02.JSONdotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
