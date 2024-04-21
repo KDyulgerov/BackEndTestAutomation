@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\04. RegularExam\\StorySpoilerRegularExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EB7B2F-7E68-44F4-9D37-789002CFB021}|StorySpoilerRegularExam\\StorySpoilerRegularExam.csproj|d:\\kd\\softuni\\back-end test automation\\backendtestautomation\\04. regularexam\\storyspoilerregularexam\\storyspoilerregularexam\\storyspoilertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EB7B2F-7E68-44F4-9D37-789002CFB021}|StorySpoilerRegularExam\\StorySpoilerRegularExam.csproj|solutionrelative:storyspoilerregularexam\\storyspoilertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EB7B2F-7E68-44F4-9D37-789002CFB021}|StorySpoilerRegularExam\\StorySpoilerRegularExam.csproj|d:\\kd\\softuni\\back-end test automation\\backendtestautomation\\04. regularexam\\storyspoilerregularexam\\storyspoilerregularexam\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EB7B2F-7E68-44F4-9D37-789002CFB021}|StorySpoilerRegularExam\\StorySpoilerRegularExam.csproj|solutionrelative:storyspoilerregularexam\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EB7B2F-7E68-44F4-9D37-789002CFB021}|StorySpoilerRegularExam\\StorySpoilerRegularExam.csproj|d:\\kd\\softuni\\back-end test automation\\backendtestautomation\\04. regularexam\\storyspoilerregularexam\\storyspoilerregularexam\\models\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EB7B2F-7E68-44F4-9D37-789002CFB021}|StorySpoilerRegularExam\\StorySpoilerRegularExam.csproj|solutionrelative:storyspoilerregularexam\\models\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoryDTO.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\04. RegularExam\\StorySpoilerRegularExam\\StorySpoilerRegularExam\\Models\\StoryDTO.cs",
+              "RelativeDocumentMoniker": "StorySpoilerRegularExam\\Models\\StoryDTO.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\04. RegularExam\\StorySpoilerRegularExam\\StorySpoilerRegularExam\\Models\\StoryDTO.cs",
+              "RelativeToolTip": "StorySpoilerRegularExam\\Models\\StoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:54:46.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\04. RegularExam\\StorySpoilerRegularExam\\StorySpoilerRegularExam\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "StorySpoilerRegularExam\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\04. RegularExam\\StorySpoilerRegularExam\\StorySpoilerRegularExam\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "StorySpoilerRegularExam\\Models\\ApiResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:54:32.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorySpoilerTests.cs",
+              "DocumentMoniker": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\04. RegularExam\\StorySpoilerRegularExam\\StorySpoilerRegularExam\\StorySpoilerTests.cs",
+              "RelativeDocumentMoniker": "StorySpoilerRegularExam\\StorySpoilerTests.cs",
+              "ToolTip": "D:\\KD\\SoftUni\\Back-End Test Automation\\BackEndTestAutomation\\04. RegularExam\\StorySpoilerRegularExam\\StorySpoilerRegularExam\\StorySpoilerTests.cs",
+              "RelativeToolTip": "StorySpoilerRegularExam\\StorySpoilerTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:44:23.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
